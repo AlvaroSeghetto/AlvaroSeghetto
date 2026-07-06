@@ -6,15 +6,15 @@ Estudante de Análise e Desenvolvimento de Sistemas na Univali, focado em aprend
 
 ### 🚀 Tecnologias & Ferramentas em Estudo
 
-- ![HTML5](https://shields.io)
-- ![CSS3](https://shields.io)
-- ![JavaScript](https://shields.io)
-- ![GitHub](https://shields.io)
-- ![SQL](https://shields.io)
+* 🌐 **HTML5 / CSS3** — Desenvolvimento de estruturas e estilização web.
+* 🟨 **JavaScript** — Programação lógica e interatividade Front-end.
+* 💾 **SQL** — Modelagem e manipulação de bancos de dados.
+* 🌿 **Git / GitHub** — Controle de versão e gerenciamento de repositórios.
 
 ---
 
-- **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com)
-- **E-mail:** alvarolseghetto@gmail.com
+- 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com)
+- ✉️ **E-mail:** alvarolseghetto@gmail.com
 
+---
 
